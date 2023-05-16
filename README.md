@@ -8,5 +8,23 @@
 
 
 
-    
+
+뭐있을지 생각중...
+
+- 전역상태관리 라이브러리 사용해보기
+  - Context API
+  - Redux
+  - Recoil
+  - Zustand
+  
+- 서버상태 라이브러리 사용해보기
+  - React Query(*)
+  - SWR
+  - Redux Toolkit Query
+
+
+- Form 데이터 처리하기
+- 에러처리하기
+- 로딩처리하기
+- 
   
