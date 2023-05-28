@@ -11,6 +11,34 @@
 
 뭐있을지 생각중...
 
+React
+Basic
+- useState
+- useEffect
+- useRef
+- useMemo, useCallback, memo
+- useReducer, Context API
+
+Advanced
+- Suspense
+- Lazy
+- ErrorBoundary
+- Portals
+- Profiler
+- Concurrent Mode
+- Strict Mode
+- SSR
+
+Advanced React Pattern
+- Custom Hooks
+- Compound Components Pattern
+- Control Props Pattern
+- Render Props Pattern
+- Higher Order Components Pattern
+- Provider Pattern
+
+
+
 - 전역상태관리 라이브러리 사용해보기
   - Context API
   - Redux
@@ -26,5 +54,8 @@
 - Form 데이터 처리하기
 - 에러처리하기
 - 로딩처리하기
-- 
+
+
+-------
+Next.js
   
