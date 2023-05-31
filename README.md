@@ -38,12 +38,21 @@ Advanced React Pattern
 - Provider Pattern
 
 
+- 스타일 처리 방법
+  - CSS in CSS
+    - CSS Module
+    - Tailwind CSS
+  - CSS in JS
+    - styled-components
+    - emotion
+
 
 - 전역상태관리 라이브러리 사용해보기
   - Context API
   - Redux
   - Recoil
   - Zustand
+  - Jotai
   
 - 서버상태 라이브러리 사용해보기
   - React Query(*)
@@ -58,4 +67,7 @@ Advanced React Pattern
 
 -------
 Next.js
-  
+
+13 version
+
+12 version
