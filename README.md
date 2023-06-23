@@ -1,3 +1,20 @@
+# Study Member
+| 팀원 | 아이디 |
+| --- | --- |
+| 조태규 | [0r0loo](https://github.com/0r0loo) |
+| 유하은 | [YHE0663](https://github.com/YHE0663) |
+
+# Study
+## React Docs
+| 날짜 | 제목                                | 링크                                                                                  |
+| --- |-----------------------------------|-------------------------------------------------------------------------------------|
+| 23.06.19 | Describing the UI                 | https://react.dev/learn/describing-the-ui                                           |
+| 23.06.21 | Adding Interactivity              | https://react.dev/learn/adding-interactivity                                        |
+| 23.06.22 | - Managing State<br/>-  Escape Hatched | https://react.dev/learn/managing-state <br/> https://react.dev/learn/escape-hatches |
+
+
+
+---
 # 과제
 
 - TODO List 만들기
@@ -45,6 +62,7 @@ Advanced React Pattern
   - CSS in JS
     - styled-components
     - emotion
+    - vanilla-extract
 
 
 - 전역상태관리 라이브러리 사용해보기
